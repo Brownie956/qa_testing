@@ -32,6 +32,12 @@
             <artifactId>junit-platform-runner</artifactId>
             <version>1.2.0-M1</version>
         </dependency>
+
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+            <version>4.1.2</version>
+        </dependency>
     </dependencies>
 
 </project>
